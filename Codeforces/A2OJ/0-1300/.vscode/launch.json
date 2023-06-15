@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bytedance/workplace/CompetitiveField/Codeforces/A2OJ/0-1300",
+      "program": "/Users/bytedance/workplace/CompetitiveField/Codeforces/A2OJ/0-1300/build/Debug/outDebug"
+    }
+  ]
+}
